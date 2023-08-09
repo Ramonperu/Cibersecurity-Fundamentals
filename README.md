@@ -200,8 +200,9 @@ Algunas recomendaciones para utilizar el correo electrónico de forma segura:
 ## VIRTUALIZACION
 
 Se entiende como la recreación de un recurso físico (hardware) o lógico (software), por medio de un hipervisor (hypervisor) que permite su ejecución por más de un entorno al mismo tiempo. Cada entorno virtualizado, conocido como máquina virtual, actúa como una entidad independiente con recursos dedicados, como memoria, procesador y almacenamiento.
-
+<center>
 <img src="/img/9ºimagenn.PNG"  />
+</center>
 
 El apogeo de la virtualización ha llegado con la utilización de la  nube, donde este sistema de reparto de los recursos se hace casi indispensable. Aunque ya existían múltiples sistemas de muchos fabricantes, el desarrollo y avances de los mismos se han incrementad  de una forma exponencial. Actualmente se puede optar, entre otros, por XenServer de Citrix, VMware ESXi de Dell, VirtualBox de Oracle, Oracle VM Server e Hyper-V de Microsoft
 
